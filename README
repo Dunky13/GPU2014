@@ -1,0 +1,9 @@
+
+The structure of this directory is the following:
+
+- bin: this is where all the executables should be;
+- examples: this directory contains two simple examples of a parallel vector sum in both CUDA and OpenCL;
+- include: libraries. No need to modify this;
+- report: your report should be saved in this directory;
+- src: the source code of libraries, sequential and parallel implementations should be here.
+
